@@ -3658,7 +3658,7 @@ See the [CHANGELOG.md](https://github.com/dpa99c/cordova-diagnostic-plugin/blob/
 
 # Credits
 
-Forked from: [https://github.com/mablack/cordova-diagnostic-plugin](https://github.com/mablack/cordova-diagnostic-plugin)
+Forked from: [https://github.com/dpa99c/cordova-diagnostic-plugin](https://github.com/dpa99c/cordova-diagnostic-plugin)
 
 Original Cordova 2 implementation by: AVANTIC ESTUDIO DE INGENIEROS ([www.avantic.net](http://www.avantic.net/))
 
